@@ -1,0 +1,50 @@
+.type {
+  font-size: 20px;
+  font-weight: 500;
+  margin-bottom: 15px;
+}
+
+.filter-container {
+  font-family: Roboto;
+}
+
+.check-item {
+  margin-bottom: 20px;
+  display: flex;
+  align-items: center;
+}
+
+.radio-item {
+  margin-bottom: 20px;
+  display: flex;
+  align-items: center;
+}
+
+.check-input {
+  margin-right: 5px;
+  height: 18px;
+  width: 18px;
+}
+
+.radio-input {
+  margin-right: 5px;
+  height: 18px;
+  width: 18px;
+}
+
+.h-line {
+  margin-bottom: 20px;
+  margin-top: 20px;
+}
+
+.input-types {
+  list-style: none;
+  margin-left: 0px;
+  padding-left: 0px;
+}
+
+.input-ranges {
+  list-style: none;
+  margin-left: 0px;
+  padding-left: 0px;
+}
